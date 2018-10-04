@@ -13,6 +13,20 @@ I was following along Stephen Grider's courses for the past two weeks and as gre
 
 In order to have the most up to date skills, you've got to learn things as soon as the best teachers teach them.
 
+## Course Outline
+
+  1. Pure React
+  2. React Tooling
+  3. Parcel
+  4. JSX
+  5. Rendering Data
+  6. Routing
+  7. Async UI
+  8. Forms
+  9. Context
+  10. Portals
+  11. Conclusion
+
 ## Notes
 
 ### Pure React
